@@ -1,5 +1,5 @@
 #!/bin/bash
 clear;
 echo "Hello World";
-echo "Hello Sun"
+echo "Hello Sunshine"
 exit;
